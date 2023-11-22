@@ -1,6 +1,8 @@
 team: Tigers
 
-manager: Donald
+manager: John
+
+coach: Grace
 
 members:
 - Linda
